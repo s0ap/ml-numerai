@@ -16,7 +16,7 @@ colorama==0.4.4
     #   log-symbols
 cycler==0.11.0
     # via matplotlib
-fonttools==4.31.1
+fonttools==4.43.0
     # via matplotlib
 halo==0.0.31
     # via -r requirements.in
